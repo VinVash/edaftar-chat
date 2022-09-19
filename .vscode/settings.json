@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/fb32510b-0a86-4555-a5d6-d06b3d92d127/microsoft.web/sites/subscriptions/fb32510b-0a86-4555-a5d6-d06b3d92d127/resourceGroups/sih2022server/providers/Microsoft.Web/sites/sih-email",
+    "appService.deploySubpath": "."
+}
